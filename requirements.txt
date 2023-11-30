@@ -1,0 +1,8 @@
+tk
+opencv-python
+Pillow
+SpeechRecognition
+pyttsx3
+tkVideoPlayer
+requests
+python-decouple
